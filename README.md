@@ -44,6 +44,7 @@ df.dtypes
 <img width="328" height="352" alt="image" src="https://github.com/user-attachments/assets/fa69f93a-a10b-4968-923e-787863938105" />
 
 df["Survived"].value_counts()
+
 <img width="352" height="81" alt="image" src="https://github.com/user-attachments/assets/701cc2ec-bea2-46e3-a502-be55b5a1ee48" />
 
 df.nunique()
