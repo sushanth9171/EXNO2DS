@@ -36,15 +36,18 @@ df.describe()
 <img width="810" height="327" alt="image" src="https://github.com/user-attachments/assets/9c6ad0ca-667f-459f-a6d6-e40eeb85e39a" />
 
 df.shape
+
 <img width="255" height="37" alt="image" src="https://github.com/user-attachments/assets/5f74a648-5c3f-4e18-b3a8-4a55b87c8c21" />
 
 df.dtypes
+
 <img width="328" height="352" alt="image" src="https://github.com/user-attachments/assets/fa69f93a-a10b-4968-923e-787863938105" />
 
 df["Survived"].value_counts()
 <img width="352" height="81" alt="image" src="https://github.com/user-attachments/assets/701cc2ec-bea2-46e3-a502-be55b5a1ee48" />
 
 df.nunique()
+
 <img width="242" height="340" alt="image" src="https://github.com/user-attachments/assets/2f6b1266-a3d1-448c-b51f-8f4d75d79ace" />
 
 import seaborn as sns  
