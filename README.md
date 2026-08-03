@@ -29,5 +29,8 @@ print(df)
 
 <img width="812" height="757" alt="Screenshot 2026-08-03 152019" src="https://github.com/user-attachments/assets/897eede8-3501-425f-83b0-8fb2aedae6d5" />
 
+df.info()  
+<img width="641" height="511" alt="image" src="https://github.com/user-attachments/assets/3a3658f7-8072-4bbf-aea2-38cd008f8190" />
+
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
