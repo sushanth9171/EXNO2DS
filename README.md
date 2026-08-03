@@ -43,6 +43,11 @@ df.dtypes
 
 <img width="328" height="352" alt="image" src="https://github.com/user-attachments/assets/fa69f93a-a10b-4968-923e-787863938105" />
 
+df.value_counts() 
+
+
+<img width="1252" height="535" alt="image" src="https://github.com/user-attachments/assets/0ae8258d-888c-42e8-9f9d-0dbb7c83ea23" />
+
 df["Survived"].value_counts()
 
 <img width="352" height="81" alt="image" src="https://github.com/user-attachments/assets/701cc2ec-bea2-46e3-a502-be55b5a1ee48" />
